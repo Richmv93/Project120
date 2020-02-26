@@ -1,3 +1,22 @@
 h1 {
   color: red;
+
+  font-size: 65px;
+
+  font-family: 'Lacquer', sans-serif;
 }
+
+pre {
+  font-family: 'Lacquer', sans-serif;
+
+  font-size: 30px;
+
+}
+body {background-color: teal;}
+
+
+<style>
+body {
+  background-image: url('mystery_image.jpg');
+}
+</style>
